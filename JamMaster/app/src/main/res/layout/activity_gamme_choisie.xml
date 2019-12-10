@@ -17,19 +17,122 @@
             android:layout_height="wrap_content"
             android:textAlignment="center"
             android:text="note"
+            android:textStyle="bold"
+            android:textSize="30dp"
             android:id="@+id/text_view_note" />
-        <TextView
+
+
+        <TableLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:text="mode"
-            android:id="@+id/text_view_mode"/>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textAlignment="center"
-            android:text="gamme"
-            android:id="@+id/text_view_gamme"/>
+            android:layout_height="wrap_content">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp">
+                <TextView
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:textStyle="bold"
+                    android:background="@drawable/tableborders"
+                    android:text="I"/>
+
+                <TextView
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:text="II"
+                    android:textStyle="bold" />
+                <TextView
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:textStyle="bold"
+                    android:text="III"/>
+                <TextView
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:textStyle="bold"
+                    android:text="IV"/>
+                <TextView
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:textStyle="bold"
+                    android:text="V"/>
+                <TextView
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:textStyle="bold"
+                    android:text="VI"/>
+                <TextView
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:textStyle="bold"
+                    android:text="VII"/>
+
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/degres1"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:layout_marginBottom="1dp"
+                    android:text="1"/>
+                <TextView
+                    android:id="@+id/degres2"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:layout_marginBottom="1dp"
+                    android:text="2"/>
+                <TextView
+                    android:id="@+id/degres3"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:layout_marginBottom="1dp"
+                    android:text="3"/>
+                <TextView
+                    android:id="@+id/degres4"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:layout_marginBottom="1dp"
+                    android:text="4"/>
+                <TextView
+                    android:id="@+id/degres5"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:layout_marginBottom="1dp"
+                    android:text="5"/>
+                <TextView
+                    android:id="@+id/degres6"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:layout_marginBottom="1dp"
+                    android:text="6"/>
+                <TextView
+                    android:id="@+id/degres7"
+                    android:textAlignment="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/tableborders"
+                    android:layout_marginBottom="1dp"
+                    android:text="7"/>
+
+            </TableRow>
+
+
+
+        </TableLayout>
 
     </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
