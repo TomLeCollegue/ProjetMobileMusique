@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e3a36b3-d24a-4b12-8fd4-957adca4501a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/java/com/example/jammaster/InfoGamme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/notes-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/drawable/notes_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/layout/activity_info_gamme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-anydpi-v26/notes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-anydpi-v26/notes_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-hdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-hdpi/notes_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-hdpi/notes_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-mdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-mdpi/notes_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-mdpi/notes_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xhdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xhdpi/notes_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xhdpi/notes_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xxhdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xxhdpi/notes_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xxhdpi/notes_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xxxhdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xxxhdpi/notes_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/mipmap-xxxhdpi/notes_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/src/main/java/com/example/jammaster/Gamme_fonctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/src/main/java/com/example/jammaster/Gamme_fonctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/src/main/java/com/example/jammaster/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/src/main/java/com/example/jammaster/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JamMaster/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JamMaster/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YqqG1RNQYIXyUS0aA8C1HvAnMv" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e3a36b3-d24a-4b12-8fd4-957adca4501a" name="Default Changelist" comment="" />
+      <created>1583680372633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583680372633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

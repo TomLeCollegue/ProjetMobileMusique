@@ -12,13 +12,27 @@
         android:orientation="vertical"
         android:background="#66FFFFFF">
 
-        <Button
-            android:id="@+id/button_Jam"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="JAM !"
-            android:layout_centerInParent="true"
-            />
+        <LinearLayout
+            android:layout_marginTop="200dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button_info_Gamme"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginTop="20dp"
+                android:text="Gammes" />
+
+            <Button
+                android:id="@+id/button_Jam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="JAM !" />
+        </LinearLayout>
 
     </RelativeLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
